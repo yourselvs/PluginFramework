@@ -1,0 +1,5 @@
+main: yourselvs.main.Plugin
+name: Plugin
+version: 0.1
+author: yourselvs
+description: A plugin.
